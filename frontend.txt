@@ -1,5 +1,6 @@
 1. HTML - Hypertext Markup Language
 2. CSS - Cascading Style Sheet
 3. JS - Javascript
-4. Boostrap
+4. Bootstrap
 5. SASS
+HTML > CSS > JS > Bootstrap > SASS
